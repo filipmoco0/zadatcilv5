@@ -1,5 +1,8 @@
 # Zadatci LV5
 
+Check out my project on [GitHub](https://github.com/filipmoslavac/my-project)!
+
+
 ## Zadatak 1
 ### [<Otvori>](<https://github.com/filipmoco0/zadatcilv5/blob/main/zadatak1.cs>)
 
